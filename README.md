@@ -1,2 +1,2 @@
 Poject completed
-project url : https://github.com/sonisuraj611/table_project_html/tree/master
+project url : https://roadmap.sh/projects/pricing-comparison-table
